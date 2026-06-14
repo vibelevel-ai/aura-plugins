@@ -64,9 +64,9 @@ merged:
 
 ## Licensing
 
-The repository license is **TBD** and must be finalized before third-party contributions
-are merged (MIT or Apache-2.0 are the likely choices). Until then, open issues and draft
-PRs are welcome for discussion; please don't expect merges until the license lands. If we
-adopt a DCO or CLA, it'll be documented here.
+This project is licensed under **[Apache-2.0](LICENSE)**. By submitting a contribution, you
+agree that it is licensed under Apache-2.0, and you confirm you have the right to submit it
+(per the inbound-=-outbound principle in Apache-2.0 §5). No separate CLA is required; if a
+DCO sign-off is adopted later, it'll be documented here.
 
 By participating you agree to the [Code of Conduct](CODE_OF_CONDUCT.md).

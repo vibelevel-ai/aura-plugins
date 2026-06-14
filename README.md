@@ -72,9 +72,11 @@ Legend: 🟢 maintained · 🟡 in progress · 🔴 needs an owner · 🔵 explo
 - Start from the **[plugin template](plugins/_template/)**.
 - Check the **[per-agent reference](docs/agents/README.md)** for where each tool keeps its
   data and what telemetry is available.
-- Questions / coordination: **[Discord](https://REPLACE-ME-discord-invite)**.
+- Questions / coordination: **[Discord](https://lnkd.in/e_GEeT8E)**.
 
 By contributing you agree to the [Code of Conduct](CODE_OF_CONDUCT.md).
 
-*License: TBD — a permissive license (MIT or Apache-2.0) is the likely choice; it must be
-finalized before merging third-party contributions. See [CONTRIBUTING.md](CONTRIBUTING.md#licensing).*
+## License
+
+[Apache-2.0](LICENSE) © 2026 VibeLevel. Contributions are accepted under the same license
+(see [CONTRIBUTING.md](CONTRIBUTING.md#licensing)).
