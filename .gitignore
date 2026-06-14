@@ -1,0 +1,28 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Secrets — NEVER commit a real Aura token or anyone's session data
+.env
+.env.*
+*.pat
+aura_token*
+**/sample_sessions/real/*
+**/fixtures/private/*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Node
+node_modules/
+dist/
+*.log
