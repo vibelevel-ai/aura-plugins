@@ -1,7 +1,7 @@
 # Aura Plugins (Community)
 
 **Local collectors that gather richer session telemetry for your AI agent and send a
-redacted summary to [VibeLevel Aura](https://github.com/REPLACE-ME/aura).**
+redacted summary to [VibeLevel Aura](https://github.com/vibelevel-ai/aura).**
 
 > **Status: early / pre-1.0 — seeking contributors.** The Aura MCP already lets any agent
 > score a session with no install. Plugins make that *better and automatic* for a specific
@@ -18,7 +18,7 @@ get a profile. But each tool stores richer signals locally (exact token counts, 
 call, sub-agent activity, plan-mode, deploy/test events). A plugin taps those for:
 
 - **`measured` token stats** instead of estimates (more accurate, and unlocks token-aware
-  scoring — see the [Aura docs](https://github.com/REPLACE-ME/aura)).
+  scoring — see the [Aura docs](https://github.com/vibelevel-ai/aura)).
 - **Automatic** capture (e.g. on session end) instead of asking each time.
 - **Complete** evidence — every prompt and tool call, which is the single biggest driver
   of an accurate score.
